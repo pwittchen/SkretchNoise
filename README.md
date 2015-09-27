@@ -12,6 +12,19 @@ About workshops
 
 During workshops we have built interactive, kinetic sculptures placed in the street space, which movement is based on data collected in the real-time or saved earlier in a different form. Participants were divided in a small groups (2-3 people). Participants were thought how to collect data, use it, process it and animate it. Participats also learned how to program Arduino, work with basic electronics and servomechanisms.
 
+Software
+--------
+
+- IDE: Arudino IDE can be installed on Linux with the command `sudo apt-get install arduino`.
+- Required library: [Adafruit-PWM-Servo-Driver-Library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library)
+- Library has to be placed in `/usr/share/arduino/libraries` and have rights to write and execute
+- Source code of the program is located in `SkretchNoise.ino` file
+
+Hardware
+--------
+
+Description will be added in the future.
+
 Photos
 ------
 
