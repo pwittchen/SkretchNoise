@@ -5,7 +5,7 @@ Arduino project created during Kinetic Street Art workshop by Medialab in Katowi
 Project overview
 ----------------
 
-SkretchNoise is a deejay simulator device, which allows to generate noisy "music" with ping-pong balls (table tennis balls). To start playing we should place "vinyl" made from paper (or anything else) on the device. "Vinyl" will rotate itself, but we can also manipulate it. SkretchNoise detects holes in the "vinyl" and then stops playing. It allows to create different beats and rhytms.
+SkretchNoise is a deejay simulator device, which allows to generate noisy "music" with ping-pong balls (table tennis balls). To start playing we should place "vinyl" made from paper (or anything else) on the device. "Vinyl" will start to rotate itself, but we can also manipulate it. SkretchNoise detects holes in the "vinyl" and then stops playing. It allows to create different beats and rhytms.
 
 About workshops
 ---------------
