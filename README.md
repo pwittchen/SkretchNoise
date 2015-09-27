@@ -32,6 +32,7 @@ Hardware
 - [Adafruit 16-Channel 12-bit PWM/Servo Driver - I2C interface - PCA9685](http://www.adafruit.com/products/815)
 - 5 Volt charger for servos and DC motor
 - USB charger for Arduino Uno board
+- breadboard
 - cables
 
 _Detailed description will be added in the future._
