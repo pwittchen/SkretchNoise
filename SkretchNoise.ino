@@ -47,7 +47,6 @@ float getCalibratedLightThreshold(float lightIntensity) {
   return maxLightIntensity * 0.9;
 }
 
-
 void rotateServos() {
   pwm.setPWM(SERVO_CHANNEL_0, SERVO_ON_SIGNAL, SERVO_MAX);
   pwm.setPWM(SERVO_CHANNEL_1, SERVO_ON_SIGNAL, SERVO_MAX);
