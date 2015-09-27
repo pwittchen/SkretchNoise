@@ -12,6 +12,21 @@ About workshops
 
 During workshops we have built interactive, kinetic sculptures placed in the street space, which movement is based on data collected in the real-time or saved earlier in a different form. Participants were divided in a small groups (2-3 people). Participants were thought how to collect data, use it, process it and animate it. Participats also learned how to program Arduino, work with basic electronics and servomechanisms.
 
+Photos
+------
+
+### Inside box
+
+![Inside box](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/inside-box-small.jpg)
+
+[See bigger picture](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/inside-box.jpg)
+
+### Outside box
+
+![Outside box](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/outside-box-small.jpg)
+
+[See bigger picture](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/outside-box.jpg)
+
 References
 ----------
 - [Event website](https://www.facebook.com/events/517379498415304/)
