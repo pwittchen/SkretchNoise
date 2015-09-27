@@ -23,7 +23,17 @@ Software
 Hardware
 --------
 
-Description will be added in the future.
+### Components
+- Arduino Uno board
+- 3 servos
+- 1 DC motor
+- 1 photoresistor
+- 1 resistor
+- 5 Volt charger for servos and DC motor
+- USB charger for Arduino Uno board
+- cables
+
+_Detailed description will be added in the future._
 
 Photos
 ------
