@@ -29,6 +29,7 @@ Hardware
 - 1 DC motor
 - 1 photoresistor
 - 1 resistor
+- [Adafruit 16-Channel 12-bit PWM/Servo Driver - I2C interface - PCA9685](http://www.adafruit.com/products/815)
 - 5 Volt charger for servos and DC motor
 - USB charger for Arduino Uno board
 - cables
