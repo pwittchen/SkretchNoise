@@ -40,15 +40,15 @@ _Detailed description will be added in the future._
 Photos
 ------
 
-### Inside box
+### Inside the box
 
-![Inside box](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/inside-box-small.jpg)
+![Inside the box](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/inside-box-small.jpg)
 
 [See bigger picture](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/inside-box.jpg)
 
-### Outside box
+### Outside the box
 
-![Outside box](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/outside-box-small.jpg)
+![Outside the box](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/outside-box-small.jpg)
 
 [See bigger picture](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/outside-box.jpg)
 
