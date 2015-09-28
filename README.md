@@ -15,7 +15,7 @@ SkretchNoise is a deejay simulator device, which allows to generate noisy "music
 How it works?
 --------------
 
-"Vinyl" is rotated with DC motor powered by 5V charger. Photoresistor is placed below the "vinyl". When hole in the "vinyl" is above the photoresistor, light intensity changes (becomes higher) and balls stops hitting in the box. When photoresitor is covered light intensity is lower and balls keep hitting in the box.
+"Vinyl" is rotated by DC motor powered by 5V charger. Photoresistor is placed below the "vinyl". When hole in the "vinyl" is above the photoresistor, light intensity changes (becomes higher) and balls stops hitting in the box. When photoresitor is covered light intensity is lower and balls keep hitting in the box.
 
 Software
 --------
