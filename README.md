@@ -12,7 +12,7 @@ Project overview
 
 SkretchNoise is a deejay simulator device, which allows to generate noisy "music" with ping-pong balls (table tennis balls). To start playing we should place "vinyl" made from paper (or anything else) on the device. "Vinyl" will start to rotate itself, but we can also manipulate it. SkretchNoise detects holes in the "vinyl" and then stops playing. It allows to create different beats and rhytms.
 
-How it works ?
+How it works?
 --------------
 
 "Vinyl" is rotated with DC motor powered by 5V charger. Photoresistor is placed below the "vinyl". When hole in the "vinyl" is above the photoresistor, light intensity changes (becomes higher) and balls stops hitting in the box. When photoresitor is covered light intensity is lower and balls keep hitting in the box.
