@@ -42,7 +42,9 @@ Hardware
 
 ### Conceptual scheme of the circuit
 
-_Conceptual scheme will be added later._
+**Please note**: This scheme is conceptual! I know it's unprofessional.
+
+![Conceptual scheme of the circuit](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/skretch-noise-scheme.png)
 
 Photos
 ------
