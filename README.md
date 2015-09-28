@@ -59,7 +59,7 @@ Photos
 
 [See bigger picture](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/outside-box.jpg)
 
-References
-----------
+Links
+-----
 - [Event website](https://www.facebook.com/events/517379498415304/)
 - [Medialab Katowice](http://medialabkatowice.eu/en/)
