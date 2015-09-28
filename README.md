@@ -21,7 +21,7 @@ Software
 --------
 
 - IDE: Arudino IDE can be installed on Linux with the command `sudo apt-get install arduino`.
-- Required library: [Adafruit-PWM-Servo-Driver-Library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library)
+- Required library for controlling servos: [Adafruit-PWM-Servo-Driver-Library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library)
 - Library has to be placed in `/usr/share/arduino/libraries` and have rights to write and execute
 - Source code of the program is located in `SkretchNoise.ino` file
 
