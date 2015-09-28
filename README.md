@@ -12,11 +12,16 @@ Project overview
 
 SkretchNoise is a deejay simulator device, which allows to generate noisy "music" with ping-pong balls (table tennis balls). To start playing we should place "vinyl" made from paper (or anything else) on the device. "Vinyl" will start to rotate itself, but we can also manipulate it. SkretchNoise detects holes in the "vinyl" and then stops playing. It allows to create different beats and rhytms.
 
+How it works?
+--------------
+
+"Vinyl" is rotated by DC motor powered by 5V charger. Photoresistor is placed below the "vinyl". When hole in the "vinyl" is above the photoresistor, light intensity changes (becomes higher) and balls stops hitting in the box. When photoresitor is covered, light intensity is lower and balls keep hitting in the box.
+
 Software
 --------
 
 - IDE: Arudino IDE can be installed on Linux with the command `sudo apt-get install arduino`.
-- Required library: [Adafruit-PWM-Servo-Driver-Library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library)
+- Required library for controlling servos: [Adafruit-PWM-Servo-Driver-Library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library)
 - Library has to be placed in `/usr/share/arduino/libraries` and have rights to write and execute
 - Source code of the program is located in `SkretchNoise.ino` file
 
@@ -33,9 +38,11 @@ Hardware
 - 5 Volt charger for servos and DC motor
 - USB charger for Arduino Uno board
 - breadboard
-- cables
+- wires (cables)
 
-_Detailed description will be added in the future._
+### Conceptual scheme of the circuit
+
+_Conceptual scheme will be added later._
 
 Photos
 ------
@@ -52,7 +59,7 @@ Photos
 
 [See bigger picture](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/outside-box.jpg)
 
-References
-----------
+Links
+-----
 - [Event website](https://www.facebook.com/events/517379498415304/)
 - [Medialab Katowice](http://medialabkatowice.eu/en/)
