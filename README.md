@@ -40,7 +40,9 @@ Hardware
 - breadboard
 - cables
 
-_Detailed description will be added in the future._
+### Conceptual schematics of the circuit
+
+_Conceptual schematics will be added later._
 
 Photos
 ------
