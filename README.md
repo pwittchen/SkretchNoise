@@ -38,7 +38,7 @@ Hardware
 - 5 Volt charger for servos and DC motor
 - USB charger for Arduino Uno board
 - breadboard
-- cables
+- wires (cables)
 
 ### Conceptual scheme of the circuit
 
