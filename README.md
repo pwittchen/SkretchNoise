@@ -51,15 +51,11 @@ Photos
 
 ### Inside the box
 
-![Inside the box](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/inside-box-small.jpg)
-
-[See bigger picture](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/inside-box.jpg)
+![Inside the box](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/inside-box.jpg)
 
 ### Outside the box
 
-![Outside the box](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/outside-box-small.jpg)
-
-[See bigger picture](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/outside-box.jpg)
+![Outside the box](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/outside-box.jpg)
 
 Links
 -----
