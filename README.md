@@ -57,6 +57,11 @@ Photos
 
 ![Outside the box](https://raw.githubusercontent.com/pwittchen/SkretchNoise/master/images/outside-box.jpg)
 
+Contributors
+------------
+
+Asia Plewnia, Mariusz Peryt, Piotr Wittchen
+
 Links
 -----
 - [Medialab Katowice](http://medialabkatowice.eu/en/)
