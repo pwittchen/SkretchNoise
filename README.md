@@ -67,3 +67,4 @@ Links
 - [Medialab Katowice](http://medialabkatowice.eu/en/)
 - [Event website on Facebook](https://www.facebook.com/events/517379498415304/)
 - [Short video from event on Vimeo](https://vimeo.com/140678636)
+- [Photos from the event on Flickr](https://www.flickr.com/photos/medialabkatowice/sets/72157659440726102)
