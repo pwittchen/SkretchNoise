@@ -2,6 +2,21 @@ SkretchNoise
 ============
 Arduino project created during Kinetic Street Art workshop by Medialab in Katowice, Poland on 26th and 27th of September 2015.
 
+Contents
+--------
+- [About workshops](#about-workshops)
+- [Project overview](#project-overview)
+- [How it works?](#how-it-works)
+- [Software](#software)
+- [Hardware](#hardware)
+  - [Components](#components)
+  - [Conceptual scheme of the circuit](#conceptual-scheme-of-the-circuit)
+- [Photos](#photos)
+  - [Inside the box](#inside-the-box)
+  - [Outside the box](#outside-the-box)
+- [Contributors](#contributors)
+- [Links](#links)
+
 About workshops
 ---------------
 
